@@ -1,0 +1,3 @@
+Optimal - objective value -4.63200000
+      2 lineup[15]                        1                  -4.229
+     75 bench[11]                         1                  -0.403
